@@ -1,7 +1,7 @@
 /* 1 секція */
 @import url("https://fonts.googleapis.com/css?family=Roboto:regular,500&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Manrope:regular,500,700&display=swap");
-
+@import url("https://fonts.googleapis.com/css?family=Prociono&display=swap");
 
 @import url("reset.css");
 
@@ -52,7 +52,7 @@
     margin-right: 30px;
     border: 2px solid #091133;
     text-align: center;
-    font-size: 16px;@import url("https://fonts.googleapis.com/css?family=Prociono&display=swap");
+    font-size: 16px;
     min-width: 189px;
     min-height: 36px;
     padding: 5px 10px;
